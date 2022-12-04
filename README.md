@@ -12,7 +12,7 @@ Meeting 2: ( 2nd December 2022 )
 We agreed to work together.
 We spoke about our Unit Test Cases with each other.
 
-#Task-3
+# Task-3
 
 ## SAST
 
@@ -24,18 +24,18 @@ they work by offering real-time access to suggestions and line-of-code navigatio
 detection and collaborative auditing. As a result, developers may write more code that is less vulnerable to compromise, 
 resulting in a more secure programme.
 
-#SAST Advantages
+# SAST Advantages
 
 Scans source code for flaws that lead to vulnerabilities.
 Real-time reporting is available.
 Languages used by developers are covered.
 
-#SAST's disadvantages
+# SAST's disadvantages
 Inability to detect vulnerabilities in dynamic contexts
 There is a high risk of reporting false positives.
 Because the report is static, it quickly becomes out of date.
 
-#Why is SAST a critical security activity?
+# Why is SAST a critical security activity?
 Developers far outnumber security personnel. It might be difficult for a company to locate the resources to do code reviews
 on even a subset of its apps. The ability to analyse the whole codebase is a fundamental capability of SAST tools. Furthermore,
 they are significantly faster than human-performed manual secure code reviews. These programmes can scan millions of lines of
@@ -43,7 +43,7 @@ code in seconds. SAST technologies reliably detect important vulnerabilities lik
 scripting, and others. Thus, including static analysis into the SDLC can have a significant impact on the overall quality of the 
 code created.
 
-#How does SAST function?
+# How does SAST function?
 SAST employs a Static Code Analysis tool, which may be compared to a building's security guard. A Static Code
 Analyzer examines the source code to seek for coding and design faults that might allow malicious code injection, 
 similar to a security guard checking for unlocked doors and open windows that could allow an intruder entrance. 
@@ -56,7 +56,7 @@ In a nutshell, a linter is a tool that can assist you improve your code. The not
 to JavaScript. Nonetheless, I believe that the bulk of individuals learning about linters are interested in those 
 that target JavaScript.
 
-#Advantages of Linting
+# Advantages of Linting
 1-fewer manufacturing faults
 2-Code that is more readable, manageable, and consistent.
 3-During code reviews, there are less conversations concerning code style and aesthetic decisions.
@@ -64,7 +64,7 @@ that target JavaScript.
 5-Code that is more secure and performant
 6-More developers are being educated about code quality.
 
-#Disadvantages of linting
+# Disadvantages of linting
 
 1-Code checks are restricted to a single programming language.
 2-Variable Functionality Provides A Narrow Perspective On Code Quality.
