@@ -4,13 +4,20 @@ Meeting Notes
 
 Meeting 1: ( 25th November 2022 )
 
-We built the GitHub repo during the first phase of our project (software testing), 
-but controlled it and offered access to every participant so that we could work well during our first meeting.
+We built the GitHub repositoy during the first phase of our project (Software Testing), and also provide access to every participant so that we could work mutually and in efficient way. We also analyzed the different tools to perform unit testing and performance testing for our assignment.  
 
-Meeting 2: ( 2nd December 2022 )
+Meeting 2: ( 30th December 2022 )
 
-We agreed to work together.
-We spoke about our Unit Test Cases with each other.
+We installed specific tools which are required to complete our Assignment-03. e.g Jest for Unit Testing, Jmeter for Performance Testing
+
+Meeting 3: ( 3rd Decemeber 2022 )
+
+We explored the areas of SAST and Linter in order to complete our TASK-03. We also select a topic of our Project last phase and the topic which we selected to explore is "Test Automation in ML and AI in DeepCheck"
+
+Meeting 4: ( 4th Decemeber 2022 ) 
+
+At this point in Time, we all mutually decided to also done the Bonus task mentioned in our Project last phase which are basically to post on LinkedIn regarding our experience and things which we learned in Software Testing and also to make a presentation on a topic which we mentioned above.
+
 
 # Task-3
 
@@ -26,14 +33,14 @@ resulting in a more secure programme.
 
 ## SAST Advantages
 
-Scans source code for flaws that lead to vulnerabilities.
-Real-time reporting is available.
-Languages used by developers are covered.
+1. Scans source code for flaws that lead to vulnerabilities.
+2. Real-time reporting is available.
+3. Languages used by developers are covered.
 
-## SAST's disadvantages
-Inability to detect vulnerabilities in dynamic contexts
-There is a high risk of reporting false positives.
-Because the report is static, it quickly becomes out of date.
+## SAST's Disadvantages
+1. Inability to detect vulnerabilities in dynamic contexts
+2. There is a high risk of reporting false positives.
+3. Because the report is static, it quickly becomes out of date.
 
 ## Why is SAST a critical security activity?
 Developers far outnumber security personnel. It might be difficult for a company to locate the resources to do code reviews
@@ -57,22 +64,22 @@ to JavaScript. Nonetheless, I believe that the bulk of individuals learning abou
 that target JavaScript.
 
 ## Advantages of Linting
-1-fewer manufacturing faults
-2-Code that is more readable, manageable, and consistent.
-3-During code reviews, there are less conversations concerning code style and aesthetic decisions.
-4-Code quality may be measured objectively.
-5-Code that is more secure and performant
-6-More developers are being educated about code quality.
+1. fewer manufacturing faults
+2. Code that is more readable, manageable, and consistent.
+3. During code reviews, there are less conversations concerning code style and aesthetic decisions.
+4. Code quality may be measured objectively.
+5. Code that is more secure and performant
+6. More developers are being educated about code quality.
 
 ## Disadvantages of linting
 
-1-Code checks are restricted to a single programming language.
-2-Variable Functionality Provides A Narrow Perspective On Code Quality.
-3-Difficulty in dealing with complex rules.
-4-Positives that aren't true.
-5-Only reporting on basic metrics.
-6-Learnings are limited.
-6-Hidden costs
+1. Code checks are restricted to a single programming language.
+2. Variable Functionality Provides A Narrow Perspective On Code Quality.
+3. Difficulty in dealing with complex rules.
+4. Positives that aren't true.
+5. Only reporting on basic metrics.
+6. Learnings are limited.
+7. Hidden costs
 
 
 ## LINTER && SAST
