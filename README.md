@@ -6,11 +6,11 @@ Meeting 1: ( 25th November 2022 )
 
 We built the GitHub repositoy during the first phase of our project (Software Testing), and also provide access to every participant so that we could work mutually and in efficient way. We also analyzed the different tools to perform unit testing and performance testing for our assignment.  
 
-Meeting 2: ( 30th December 2022 )
+Meeting 2: ( 30th November 2022 )
 
 We installed specific tools which are required to complete our Assignment-03. e.g Jest for Unit Testing, Jmeter for Performance Testing
 
-Meeting 3: ( 3rd Decemeber 2022 )
+Meeting 3: ( 2nd Decemeber 2022 )
 
 We explored the areas of SAST and Linter in order to complete our TASK-03. We also select a topic of our Project last phase and the topic which we selected to explore is "Test Automation in ML and AI in DeepCheck"
 
