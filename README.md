@@ -57,6 +57,26 @@ similar to a security guard checking for unlocked doors and open windows that co
 SQL Injections, Command Injections, and Server-Side Injections are some instances of malicious assaults, according
 to OWASP.
 
+## Fortify
+
+Static application security testing (SAST) is performed by Fortify Static Code Analyzer, 
+which analyses both binary and source code for security vulnerabilities. SCA discovers the fundamental
+causes of security vulnerabilities, correlates the results, and prioritises them.
+
+## Capabilities
+
+Flexible Deployment
+Industry-leading SAST solution that can be deployed on-premises, in the cloud, or as AppSec-as-a-Service.
+
+Enterprise Scaling
+Scale your SAST scans up and down dynamically to match the changing demands of the CI/CD workflow.
+
+SAST Speed vs. Depth
+With Audit Assistant, you can regulate the speed and accuracy of SAST by adjusting the depth of
+the scan and eliminating false positives.
+
+
+
 # LINTER
 
 In a nutshell, a linter is a tool that can assist you improve your code. The notion of a linter is not exclusive 
@@ -80,6 +100,18 @@ that target JavaScript.
 5. Only reporting on basic metrics.
 6. Learnings are limited.
 7. Hidden costs
+
+## Eslint
+
+Look for problems.
+ESLint examines your code statically to identify errors rapidly. 
+Most text editors have ESLint, and you may use it as part of your continuous integration workflow.
+
+Automatically resolve issues
+There are several issues. ESLint errors can be automatically corrected. Because ESLint fixes are syntax-aware, you will not encounter errors caused by traditional find-and-replace algorithms.
+
+Configure everything
+Use custom parsers, preprocess code, and develop your own rules to use with ESLint's built-in rules. ESLint may be configured to function exactly the way you need it to for your project.
 
 
 ## LINTER && SAST
